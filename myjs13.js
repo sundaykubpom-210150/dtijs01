@@ -1,0 +1,1 @@
+// แบบที่ 5 : Callback function คือ ฟังก์ชันที่ถูกส่งไปเป็น argument
